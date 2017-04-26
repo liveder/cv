@@ -25,9 +25,11 @@ Won in the "The best set-top box for OTT and hybrid receiving" at Big Digit 2017
 **Project Manager** at SPBTV (May 2014 – Sep 2016)
 
 Project and Technical architect for [Lebara Play](http://play.lebara.com) project.
+
 Award winning OTT TV solution for different platforms.
 
 Won in the "Best TV everywhere/multi-screen video" category at 2015 CSI Awards at the International Broadcasting Convention in Amsterdam. 
+
 Won two awards at Mobile News Awards 2016 ceremony, which is one of the most prestigious awards in the sphere of mobile communications in the United Kingdom. 
 
 
