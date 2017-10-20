@@ -78,6 +78,9 @@ Supporting and creating various number of services. Security Manager. ITIL. Lead
 * Clustered all company branches into one big network
 
 
+**Project Manager** at Chaika Telecom LTD (Jun 2009 – Feb 2010)
+Project Manager and Technical architect for [6550101.ru](http://6550101.ru) project.
+
 **System Engineer** at Chaika Telecom LTD (Aug 2008 – Feb 2010)
 
 Win2003/2008, FreeBSD, Debian, CentOS; >10 buildings, >150 workstations
@@ -92,7 +95,6 @@ Administrator, Customer service manager, Project manager: supporting and creatin
 * cluster monitoring(more than 10 buildings) using debian+zoneminder
 * cacti for all network links
 * custom notification system for duty monitoring
-* http://6550101.ru project and technical managing
 * email integration based on postfix+cyrus-imapd
 
 Education
