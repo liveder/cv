@@ -3,7 +3,7 @@ Aleksey Zheleznov
 
 # Experience
 
-##Product Owner at SPB TV (Mar 2017 – Present)
+## Product Owner at SPB TV (Mar 2017 – Present)
 
 Maintaining and prioritizing the backlog to ensure that the teams is working on stories that maximize business value and deliver necessary fixes and functionality to all customers.
 
@@ -14,7 +14,7 @@ Maintaining and prioritizing the backlog to ensure that the teams is working on 
 * Assess value, develop cases, and prioritize stories, epics and themes to ensure work focuses on those with maximum value that are aligned with product strategy.
 
 
-##Product Manager at SPB TV (Sep 2016 – May 2017)
+## Product Manager at SPB TV (Sep 2016 – May 2017)
 
 * Product development by identifying potential products and market demands.
 * Generating product requirements.
@@ -23,7 +23,7 @@ Maintaining and prioritizing the backlog to ensure that the teams is working on 
 Won in the "The best set-top box for OTT and hybrid receiving" at Big Digit 2017
 
 
-##Project Manager at SPB TV (May 2014 – Sep 2016)
+## Project Manager at SPB TV (May 2014 – Sep 2016)
 
 * Project Manager and Technical architect for [Lebara Play](http://play.lebara.com) project.
 * API, Android, iOS, Set-Top Box, HTML(Desktop and Responsive), Infrastructure.
@@ -34,7 +34,7 @@ Won in the "Best TV everywhere/multi-screen video" category at 2015 CSI Awards a
 Won two awards at Mobile News Awards 2016 ceremony, which is one of the most prestigious awards in the sphere of mobile communications in the United Kingdom. 
 
 
-##System Administrator at SPB TV (Sep 2011 – Present)
+## System Administrator at SPB TV (Sep 2011 – Present)
 
 CentOS, ExtremeNetworks, Vyatta; >1k servers
 
@@ -57,7 +57,7 @@ CentOS, ExtremeNetworks, Vyatta; >1k servers
 * Docker from the early stage
 
 
-##Deputy Director of IT Department at Marine Technics (Feb 2010 – Sep 2011)
+## Deputy Director of IT Department at Marine Technics (Feb 2010 – Sep 2011)
 
 Win2003/2008, FreeBSD, Debian, Ubuntu; >15 branch offices over the world, >200 workstations
 
@@ -76,12 +76,12 @@ Supporting and creating various number of services. Security Manager. ITIL. Lead
 * Clustered all company branches into one big network
 
 
-##Project Manager at Chaika Telecom LTD (Jun 2009 – Feb 2010)
+## Project Manager at Chaika Telecom LTD (Jun 2009 – Feb 2010)
 
 Project Manager and Technical architect for [6550101.ru](http://6550101.ru) project.
 
 
-##System Engineer at Chaika Telecom LTD (Aug 2008 – Feb 2010)
+## System Engineer at Chaika Telecom LTD (Aug 2008 – Feb 2010)
 
 Win2003/2008, FreeBSD, Debian, CentOS; >10 buildings, >150 workstations
 
