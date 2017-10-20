@@ -4,7 +4,7 @@ Aleksey Zheleznov
 Experience
 ----------
 
-**Product Owner** at SPBTV (Mar 2017 – Present)
+**Product Owner** at SPB TV (Mar 2017 – Present)
 
 Maintaining and prioritizing the backlog to ensure that the teams is working on stories that maximize business value and deliver necessary fixes and functionality to all customers.
 
@@ -15,14 +15,14 @@ Maintaining and prioritizing the backlog to ensure that the teams is working on 
 * Assess value, develop cases, and prioritize stories, epics and themes to ensure work focuses on those with maximum value that are aligned with product strategy.
 
 
-**Product Manager** at SPBTV (Sep 2016 – May 2017)
+**Product Manager** at SPB TV (Sep 2016 – May 2017)
 
 Product development by identifying potential products; generating product requirements; determining specifications, production timetables and time-integrated plans for product introduction;
 
 Won in the "The best set-top box for OTT and hybrid receiving" at Big Digit 2017
 
 
-**Project Manager** at SPBTV (May 2014 – Sep 2016)
+**Project Manager** at SPB TV (May 2014 – Sep 2016)
 
 Project Manager and Technical architect for [Lebara Play](http://play.lebara.com) project.
 
@@ -35,7 +35,7 @@ Won in the "Best TV everywhere/multi-screen video" category at 2015 CSI Awards a
 Won two awards at Mobile News Awards 2016 ceremony, which is one of the most prestigious awards in the sphere of mobile communications in the United Kingdom. 
 
 
-**System Administrator** at SPBTV (Sep 2011 – Present)
+**System Administrator** at SPB TV (Sep 2011 – Present)
 
 
 CentOS, ExtremeNetworks, Vyatta; >1k servers
