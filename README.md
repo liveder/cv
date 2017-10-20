@@ -24,7 +24,9 @@ Won in the "The best set-top box for OTT and hybrid receiving" at Big Digit 2017
 
 **Project Manager** at SPBTV (May 2014 – Sep 2016)
 
-Project and Technical architect for [Lebara Play](http://play.lebara.com) project.
+Project Manager and Technical architect for [Lebara Play](http://play.lebara.com) project.
+
+API, Android, iOS, Set-Top Box, HTML(Desktop and Responsive), Infrastructure.
 
 Award winning OTT TV solution for different platforms.
 
