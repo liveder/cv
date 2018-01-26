@@ -7,7 +7,7 @@ Aleksey Zheleznov
 
 ***SPB TV Rosing** is a fully elaborated platform that provides for an immediate launch of OTT TV or IPTV services, with no time needing to be spent on design and development. It is a universal solution for telecom operators, TV operators and media companies to stay competitive and ensure a solid revenue stream.*
 
-More than 10 projects over the world.
+More than 10 projects over the world with over 3mln active users
 
 - SPB TV Russia: https://ru.spbtv.com
 - voka: https://www.voka.tv
@@ -20,6 +20,7 @@ Maintaining and prioritizing the backlog to ensure that the teams is working on 
 * Collaborate with stakeholders during the visioning and concept development of a product.
 * Lead, manage and collaborate with cross-functional teams, business partners and stakeholder management for a product(s).
 * Assess value, develop cases, and prioritize stories, epics and themes to ensure work focuses on those with maximum value that are aligned with product strategy.
+* Converting stories into structured technical tasks
 
 ## Product Manager at SPB TV (Sep 2016 – May 2017)
 
@@ -27,6 +28,7 @@ Maintaining and prioritizing the backlog to ensure that the teams is working on 
 
 * Product development by identifying potential products and market demands.
 * Generating product requirements.
+* Lead, manage and collaborate with cross-functional teams.
 * Determining specifications, production timetables and time-integrated plans for product introduction.
 
 Won in the "The best set-top box for OTT and hybrid receiving" at Big Digit 2017
@@ -42,11 +44,11 @@ Won in the "Best TV everywhere/multi-screen video" category at 2015 CSI Awards a
 
 Won two awards at Mobile News Awards 2016 ceremony, which is one of the most prestigious awards in the sphere of mobile communications in the United Kingdom. 
 
-
-## System Administrator at SPB TV (Sep 2011 – Mar 2017)
+## DevOps at SPB TV (Sep 2011 – Mar 2017)
 
 CentOS, ExtremeNetworks, Vyatta; >1k servers
 
+* technical architect
 * provisioning automation (puppet 2.x, puppet 4.x, hiera)
 * distributed monitoring (opsview, nagios)
 * nginx highload (>100G)
