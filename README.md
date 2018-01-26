@@ -22,7 +22,7 @@ Maintaining and prioritizing the backlog to ensure that the teams is working on 
 * Assess value, develop cases, and prioritize stories, epics and themes to ensure work focuses on those with maximum value that are aligned with product strategy.
 * Converting stories into structured technical tasks
 
-## Product Manager at SPB TV (Sep 2016 – May 2017)
+## Product Manager at SPB TV (Sep 2016 – Mar 2017)
 
 ***SPB TV Home** generates a personal TV viewing experience at home. Members of one household can conveniently share billing and subscriptions while staying true to their own video preferences. SPB TV uses big data to define users’ tastes and offer them the most attractive content.*
 
