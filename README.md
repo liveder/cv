@@ -3,7 +3,12 @@ Aleksey Zheleznov
 
 # Experience
 
-## Product Owner at SPB TV (Mar 2017 – Present)
+## Software Development Team Lead ( Jul 2018 - Present)
+
+Provide technology leadership for infrastructure, scalability, and performance
+Architecting large scale distributed systems
+
+## Product Owner at SPB TV (Mar 2017 – Jul 2018)
 
 ***SPB TV Rosing** is a fully elaborated platform that provides for an immediate launch of OTT TV or IPTV services, with no time needing to be spent on design and development. It is a universal solution for telecom operators, TV operators and media companies to stay competitive and ensure a solid revenue stream.*
 
